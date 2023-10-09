@@ -33,3 +33,4 @@ misc/
 *.exe
 *.out
 *.app
+code/debug.bat
