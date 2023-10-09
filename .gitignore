@@ -1,4 +1,5 @@
 misc/
+.idea/
 /code/build.bat
 # Prerequisites
 *.d
